@@ -1,0 +1,24 @@
+{
+    "scores": [
+        {
+            "name": "ASD",
+            "points": 305
+        },
+        {
+            "name": "SDA",
+            "points": 25
+        },
+        {
+            "name": "SAD",
+            "points": 168
+        },
+        {
+            "name": "JAJS",
+            "points": 401
+        },
+        {
+            "name": "JULIAN",
+            "points": 399
+        }
+    ]
+}
